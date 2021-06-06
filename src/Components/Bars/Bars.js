@@ -13,7 +13,7 @@ import Time from "../../Time";
 
 function Bars(props) {
     const [bar, setBar] = useState([])
-    const [keyword, setKeyword] = useState("beer")
+    const [keyword, setKeyword] = useState(" ç")
 
 
     function refreshPage() {

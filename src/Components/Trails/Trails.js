@@ -14,7 +14,7 @@ import Time from "../../Time";
 
 function Trails(props) {
     const [trail, setTrail] = useState([])
-    const [keyword, setKeyword] =useState("city")
+    const [keyword, setKeyword] =useState("botanics garden")
     const [latLong, setLatLong] = useState([])
     // const [selectedTrail, setSelectedMall] = useState(null);
 

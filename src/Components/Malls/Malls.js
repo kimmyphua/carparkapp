@@ -6,15 +6,15 @@ import {
 } from "react-google-maps";
 import Axios from "axios"
 import Mall from "./Mall";
-import SearchForm from "./SearchForm";
+import SearchForm from "../SearchForm";
 import {Col, Container,Row} from "react-bootstrap";
-import Time from "../Time";
+import Time from "../../Time";
 
 
 function Malls(props) {
     const [mall, setMall] = useState([])
     const [keyword, setKeyword] =useState("orchard")
-    const [selectedMall, setSelectedMall] = useState(null);
+    // const [selectedMall, setSelectedMall] = useState(null);
 
     function refreshPage() {
         window.location.reload(false);
@@ -50,64 +50,53 @@ function Malls(props) {
                     lng: all.location.longitude
                 }}
                 onClick={() => {
-                    setSelectedMall(all);
+                    alert(all.name);
                 }}
                 onDblClick={ GoogleMap.defaultProps= {
                     center: {
                         lat: all.location.latitude,
                         lng: all.location.longitude
                     },
-                    zoom: 13,
+                    zoom: 14,
                 }}
                 icon={{
-                        url: "https://i.imgur.com/yKpKiPIs.png",
-                    scaledSize: new window.google.maps.Size(25, 25)
+                        url: "https://cdn1.iconfinder.com/data/icons/supermarket-cafe-and-stores/50/10-512.png",
+                    scaledSize: new window.google.maps.Size(35, 35)
                 }}/>
             ))}
 
-            {selectedMall && (
-                <InfoWindow
-                    onCloseClick={() => {
-                        setSelectedMall(null);
-                    }}
-                    position={{
-                        lat: selectedMall.location.latitude,
-                        lng: selectedMall.location.longitude
-                    }}
+            {/*{selectedMall && (*/}
+            {/*    <InfoWindow*/}
+            {/*        onCloseClick={() => {*/}
+            {/*            setSelectedMall(null);*/}
+            {/*        }}*/}
+            {/*        position={{*/}
+            {/*            lat: selectedMall.location.latitude,*/}
+            {/*            lng: selectedMall.location.longitude*/}
+            {/*        }}*/}
 
-                >
-                    <div>
-                        <h2>{selectedMall.name}</h2>
-                        <p>{selectedMall.description}</p>
-                    </div>
-                </InfoWindow>
-            )}
+            {/*    >*/}
+            {/*        <div>*/}
+            {/*            <h2>{selectedMall.name}</h2>*/}
+            {/*            <p>{selectedMall.description}</p>*/}
+            {/*        </div>*/}
+            {/*    </InfoWindow>*/}
+            {/*)}*/}
         </GoogleMap>
 
-                <Row>
-                    <Col md={4} className="pt-5">
+                <Row className="justify-content-between align-content-center">
+                    <Col md={3} className="pt-2">
                         <h4 className="text-center border border-dark pink font-weight-light py-2 px-2">
                             <p> <Time /></p>
-                            Mall Finder:
+                            Mall Finder: Type somewhere you would like to visit!
                             <SearchForm searchText={setKeyword}/>
 
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers </button>
-                            {/*<Row className="py-4 px-2 w-auto text-center">*/}
-                            {/*    <Col md={6} >*/}
-                            {/*        <img onClick={showSpotify} className="smallpop" style={ {width: "auto"} }*/}
-                            {/*             src="https://i.imgur.com/vDZflkF.png"*/}
-                            {/*        />*/}
 
-                            {/*    </Col>*/}
-                            {/*    <Col md={6}>*/}
-                            {/*        🎼 Click Pusheen to enjoy some free tunes while browsing the App 🎼*/}
-                            {/*    </Col>*/}
-                            {/*</Row>*/}
-                            {/*{showMusic ? <Music /> : null}*/}
                         </h4>
                     </Col>
 
-                <Col md={8} className="pt-5">
+                <Col md={9} className="pt-2 mall-container ">
                         {mall.map(({address, name, rating, officialWebsite, location, description}, i) => (
                             <Mall
                                 key={i}

@@ -88,18 +88,18 @@ function Bars(props) {
                             lat: all.location.latitude,
                             lng: all.location.longitude
                         }}
-                        onClick={GoogleMap.defaultProps = {
+                        onDlbClick={GoogleMap.defaultProps = {
                             center: {
                                 lat: all.location.latitude,
                                 lng: all.location.longitude
                             },
                             zoom: 13,
                         }}
-                        onDblClick={() => {
+                        onClick={() => {
                             alert(all.name)
                         }}
                         icon={{
-                            url: "https://i.imgur.com/yKpKiPIs.png",
+                            url: "https://cdn.iconscout.com/icon/free/png-512/beer-mug-glass-drink-cocktail-emoj-symbol-babr-30679.png",
                             scaledSize: new window.google.maps.Size(25, 25)
                         }}>
 

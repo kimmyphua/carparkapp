@@ -1,12 +1,13 @@
 import React, {useState} from 'react';
 
 
-function SearchForm({searchText,setCarpark}) {
+function SearchFormCar({searchText,setCarpark}) {
     const [textForSearch, setTextForSearch] = useState('')
 
     function handleSubmit(e) {
         e.preventDefault()
         searchText(textForSearch)
+        setCarpark([])
 
     }
 
@@ -33,4 +34,4 @@ function SearchForm({searchText,setCarpark}) {
     );
 }
 
-export default SearchForm;
+export default SearchFormCar;

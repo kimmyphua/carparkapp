@@ -11,9 +11,9 @@ const [selected, setSelected] = useState( "")
 
     return (
         <div>
- <Container fluid>
+ <Container>
      <Row className="border-bottom border-5">
-                   <button onClick={()=> setSelected(Location)} className=" p-2 border-dark pink clickable text-dark">{Development}</button>
+                   <button onClick={()=> setSelected(Location)} className=" p-2 highlight clickable ">{Development}</button>
                         <h5 className="font-weight-light">Lot Type: {LotType}</h5>
                         <h5 className="font-weight-light">AvailableLots: {AvailableLots}</h5>
                         <h5 className="font-weight-light">Area: {Area}</h5>

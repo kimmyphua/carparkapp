@@ -14,7 +14,7 @@ import Time from "../../Time";
 
 function Trails(props) {
     const [trail, setTrail] = useState([])
-    const [keyword, setKeyword] =useState("green")
+    const [keyword, setKeyword] =useState("city")
     const [latLong, setLatLong] = useState([])
     // const [selectedTrail, setSelectedMall] = useState(null);
 
@@ -67,11 +67,11 @@ function Trails(props) {
                                 lat: all.lat,
                                 lng: all.lng
                             },
-                            zoom: 13,
+                            zoom: 14,
                         }}
                         icon={{
-                            url: "https://i.imgur.com/yKpKiPIs.png",
-                            scaledSize: new window.google.maps.Size(25, 25)
+                            url: "https://img.icons8.com/plasticine/2x/flower-doodle.png",
+                            scaledSize: new window.google.maps.Size(35, 35)
                         }}/>
                 ))}
 
@@ -80,9 +80,9 @@ function Trails(props) {
                 <Row>
                     <Col md={4} className="pt-5">
 
-                        <h4 className="text-center border border-dark pink font-weight-light pt-2 px-2">
+                        <h4 className="text-center border border-dark light-green font-weight-light pt-2 px-2">
                             <p><Time /></p>
-                            Trail Finder:
+                            Trail Finder: Reconnect with nature!
                             <SearchForm searchText={setKeyword}/>
 
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers </button>
@@ -91,13 +91,14 @@ function Trails(props) {
                     </Col>
 
                     <Col md={8} className="pt-5">
-                        {trail.map(({officialWebsite, name, type, contact, description}, i) => (
+                        {trail.map(({officialWebsite, name, type, contact, description,body}, i) => (
                             <Trail
                                 key={i}
                                 name={name}
                                 contact={contact}
                                 description={description}
                                 officialWebsite={officialWebsite}
+                                body={body}
                             />
                         ))}
                     </Col>

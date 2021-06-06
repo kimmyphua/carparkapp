@@ -14,9 +14,9 @@ import Time from "../../Time";
 function Food(props) {
     const [food, setFood] = useState([])
     const [keyword, setKeyword] = useState("sushi")
-    const [show, setShow] = useState(false);
-    const handleClose = () => setShow(false);
-    const handleShow = () => setShow(true);
+    // const [show, setShow] = useState(false);
+    // const handleClose = () => setShow(false);
+    // const handleShow = () => setShow(true);
 
     function refreshPage() {
         window.location.reload(false);
@@ -64,7 +64,8 @@ function Food(props) {
                                        location,
                                        description,
                                        businessHour,
-                                       images
+                                       images,
+                                        reviews
                                    }, i) => (
                             <FoodItem
                                 key={i}
@@ -76,6 +77,7 @@ function Food(props) {
                                 description={description}
                                 businessHour={businessHour}
                                 images={images}
+                                reviews={reviews}
                             />
                         ))}
                     </Col>
@@ -93,35 +95,33 @@ function Food(props) {
                             lat: all.location.latitude,
                             lng: all.location.longitude
                         }}
-                        onClick={GoogleMap.defaultProps = {
+                        onDlbClick={GoogleMap.defaultProps = {
                             center: {
                                 lat: all.location.latitude,
                                 lng: all.location.longitude
                             },
-                            zoom: 13,
+                            zoom: 15,
                         }}
-                        onDblClick={() => {
-                            handleShow()
-                        }}
+                        onClick={() => alert(all.name)}
                         icon={{
-                            url: "https://i.imgur.com/yKpKiPIs.png",
-                            scaledSize: new window.google.maps.Size(25, 25)
+                            url: "https://img.icons8.com/plasticine/2x/sushi.png",
+                            scaledSize: new window.google.maps.Size(35, 35)
                         }}>
 
-                        <Modal show={show} onHide={handleClose}>
-                            <Modal.Header closeButton>
-                                <Modal.Title>{all.name}</Modal.Title>
-                            </Modal.Header>
-                            <Modal.Body>Woohoo, you're reading this text in a modal!</Modal.Body>
-                            <Modal.Footer>
-                                <Button variant="secondary" onClick={handleClose}>
-                                    Close
-                                </Button>
-                                <Button variant="primary" onClick={handleClose}>
-                                    Save Changes
-                                </Button>
-                            </Modal.Footer>
-                        </Modal>
+                        {/*<Modal show={show} onHide={handleClose}>*/}
+                        {/*    <Modal.Header closeButton>*/}
+                        {/*        <Modal.Title>{all.name}</Modal.Title>*/}
+                        {/*    </Modal.Header>*/}
+                        {/*    <Modal.Body>Woohoo, you're reading this text in a modal!</Modal.Body>*/}
+                        {/*    <Modal.Footer>*/}
+                        {/*        <Button variant="secondary" onClick={handleClose}>*/}
+                        {/*            Close*/}
+                        {/*        </Button>*/}
+                        {/*        <Button variant="primary" onClick={handleClose}>*/}
+                        {/*            Save Changes*/}
+                        {/*        </Button>*/}
+                        {/*    </Modal.Footer>*/}
+                        {/*</Modal>*/}
 
 
 </Marker>

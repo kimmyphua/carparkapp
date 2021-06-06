@@ -7,15 +7,17 @@ function Navigation(props) {
         <div>
             <Container>
             <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="#home">Weekend Planner App</Navbar.Brand>
+                <Navbar.Brand href="/">Weekend Planner App</Navbar.Brand>
+                <Nav.Link href="/" className="text-dark">CARPARK</Nav.Link>
+                <Nav.Link href="/traffic" className="text-dark">TRAFFIC</Nav.Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link href="home">Home</Nav.Link>
-                        <Nav.Link href="mall">Mall</Nav.Link>
-                        <Nav.Link href="food">Food|Bev</Nav.Link>
-                        <Nav.Link href="trails">Trails</Nav.Link>
-                        <Nav.Link href="bars">Clubs|Bars</Nav.Link>
+
+                        <Nav.Link href="mall" className="text-danger">Mall</Nav.Link>
+                        <Nav.Link href="food" className="text-primary">Food|Bev</Nav.Link>
+                        <Nav.Link href="bars" className="text-secondary">Clubs|Bars</Nav.Link>
+                        <Nav.Link href="trails" className="text-success">Trails</Nav.Link>
 
                     </Nav>
 

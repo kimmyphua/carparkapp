@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
-import * as carParkData from './carparkdata.json'
+import * as carParkData from '../../jsonfiles/carparkdata.json'
 import {Container, Button, Col, Row} from "react-bootstrap";
 import CarparkItem from './carparkItem'
-import SearchForm from "./Components/SearchForm";
-import Time from "./Time";
+import SearchFormCar from "./SearchFormCar";
+import Time from "../../Time";
 
 // console.log(carParkData.default.value)
 function Carpark(props) {
@@ -13,6 +13,7 @@ function Carpark(props) {
     // const showOrchard = () => setShowOrchard(true);
 
     useEffect(() => {
+
         let allCarparks = carParkData.default.value
         let car2 = allCarparks.filter((all) => all.Development.toLowerCase().includes(keyword))
         setCarpark(car2)
@@ -27,13 +28,14 @@ function Carpark(props) {
                             <p><Time/></p>
                             Find your nearest carpark locations!
                             Key in your location to check if there are any available lots currently:<br/>
-                            <SearchForm searchText={setKeyword}/> <br/>
+                            <SearchFormCar searchText={setKeyword}
+                            setCarpark={setCarpark}/> <br/>
                             Click on the location to see it on the map!
                         </h4>
 
 
                     </Col>
-                    <Col md={6} className="my-2">
+                    <Col md={8} className="my-2">
                         <div className="carpark-container">
                             {carpark.map(({Development, AvailableLots, Location, LotType, Area, Agency, CarParkID}) => (
                                 <CarparkItem

@@ -1,0 +1,173 @@
+{
+  "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+  "value": [
+    {
+      "Type": "Vehicle breakdown",
+      "Latitude": 1.381122318099114,
+      "Longitude": 103.73516453040111,
+      "Message": "(6/6)15:57 Vehicle breakdown on KJE (towards BKE) after Sungei Tengah Exit."
+    },
+    {
+      "Type": "Vehicle breakdown",
+      "Latitude": 1.3495041140471447,
+      "Longitude": 103.7944776547385,
+      "Message": "(6/6)15:51 Vehicle breakdown on PIE (towards Changi Airport) after BKE. Avoid lane 5."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3804009161589723,
+      "Longitude": 103.85826821268068,
+      "Message": "(6/6)15:51 Roadworks on CTE (towards SLE) after AMK Ave 5 Exit."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.304736922421257,
+      "Longitude": 103.8400320707842,
+      "Message": "(6/6)15:36 Roadworks in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance. Avoid lane 3."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.2793877078333118,
+      "Longitude": 103.8529557718144,
+      "Message": "(6/6)15:21 Roadworks on Central Boulevard (towards Marina View) after Straits View."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3469847474365535,
+      "Longitude": 103.84692755973073,
+      "Message": "(6/6)15:11 Roadworks on Bishan Road (towards Bishan Street 11) after Bishan Lane. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.4176183150246018,
+      "Longitude": 103.8024035421252,
+      "Message": "(6/6)14:58 Roadworks on SLE (towards CTE) before Mandai Ave Exit."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3321397451945796,
+      "Longitude": 103.8384874355294,
+      "Message": "(6/6)14:57 Roadworks on Thomson Road (towards SLE) after PIE. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.294869908440842,
+      "Longitude": 103.79920997112721,
+      "Message": "(6/6)14:35 Roadworks on Queensway (towards Lornie) before Commonwealth Drive. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.2833280909096174,
+      "Longitude": 103.83601581416313,
+      "Message": "(6/6)13:43 Roadworks in CTE Tunnel (towards AYE) after Outram Rd Exit. Avoid lane 1."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.302797909093746,
+      "Longitude": 103.85363551261591,
+      "Message": "(6/6)13:38 Roadworks on Bencoolen Street (towards Albert Street) after Rochor Road."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3073451688015194,
+      "Longitude": 103.8476364770571,
+      "Message": "(6/6)10:55 Roadworks on Bukit Timah Road (towards Woodlands) after Selegie Road. Avoid right lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.4204404714546128,
+      "Longitude": 103.77146075431031,
+      "Message": "(6/6)10:26 Roadworks on BKE (towards PIE) after SLE Exit."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3401697608113086,
+      "Longitude": 103.82823632683879,
+      "Message": "(6/6)10:05 Roadworks on Lornie Highway (towards Queensway) after MacRitchie viaduct. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3120403187421736,
+      "Longitude": 103.83285484685108,
+      "Message": "(6/6)10:04 Roadworks on Stevens Road (towards Draycott Park) after Goodwood Hill. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3092368695113081,
+      "Longitude": 103.83302384634561,
+      "Message": "(6/6)10:00 Roadworks on Draycott Drive (towards Stevens Road) after Claymore Hill. Avoid right lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3094522577009797,
+      "Longitude": 103.84754755067603,
+      "Message": "(6/6)9:43 Roadworks on Kampong Java Road (towards Bukit Timah Road) after Keng Lee Road. Avoid right lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.332529901278376,
+      "Longitude": 103.81555402435366,
+      "Message": "(6/6)9:39 Roadworks on PIE (towards Tuas) at Adam Rd Entrance."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3013266467253695,
+      "Longitude": 103.8563806469525,
+      "Message": "(6/6)9:37 Roadworks on Victoria Street (towards Ophir Road) after Rochor Road. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.309203968733607,
+      "Longitude": 103.83353071743367,
+      "Message": "(6/6)9:35 Roadworks on Stevens Road (towards Scotts Road) after Goodwood Hill. Avoid right lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.2890124470913298,
+      "Longitude": 103.84753799277406,
+      "Message": "(6/6)9:32 Roadworks on New Bridge Road (towards Carpenter Street) after Upper Circular Road. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3906736614450355,
+      "Longitude": 103.77001125139476,
+      "Message": "(6/6)9:29 Roadworks on KJE (towards BKE) at BKE(Woodlands) Exit."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3428117475197192,
+      "Longitude": 103.74659828776929,
+      "Message": "(6/6)9:16 Roadworks on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 3."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3170133289923807,
+      "Longitude": 103.83536376222304,
+      "Message": "(6/6)8:51 Roadworks on Bukit Timah Road (towards Woodlands) after Balmoral Road. Avoid right lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3077813876924342,
+      "Longitude": 103.8631401114461,
+      "Message": "(6/6)8:50 Roadworks on Kallang Road (towards Horne Road) after Crawford Street."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3376625460840723,
+      "Longitude": 103.80041812117565,
+      "Message": "(6/6)8:49 Roadworks on Eng Neo Avenue (towards PIE) after Fairways Drive. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3713731903401492,
+      "Longitude": 103.8766296938505,
+      "Message": "(6/6)8:47 Roadworks on Yio Chu Kang Road (towards Lorong Napiri) after Ang Mo Kio Avenue 3. Avoid left lane."
+    },
+    {
+      "Type": "Roadwork",
+      "Latitude": 1.3928981813860781,
+      "Longitude": 103.82572127272142,
+      "Message": "(6/6)8:24 Roadworks on SLE (towards BKE) before Upper Thomson Rd Exit. Avoid lane 1."
+    }
+  ]
+}

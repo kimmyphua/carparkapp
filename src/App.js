@@ -6,14 +6,14 @@ import {
     GoogleMap,
 } from "react-google-maps";
 import mapStyles from "./Styles/mapStyles";
-import Malls from "./Components/Malls";
+import Malls from "./Components/Malls/Malls";
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 import Navigation from "./Components/Nav";
 import Food from "./Components/Restaurants/Food"
 import Trails from "./Components/Trails/Trails";
 import Bars from "./Components/Bars/Bars";
-import Carpark from "./Carpark";
-import img1 from "./images/clock.png";
+import Carpark from "./Components/Carpark/Carpark";
+import Traffic from "./Traffic";
 import {Col,Container,Row} from "react-bootstrap";
 
 function App() {
@@ -39,9 +39,11 @@ function App() {
 
                         <Switch>
 
-                            <Route path="/home" exact>
-
+                            <Route path="/" exact>
                                 <Carpark />
+                            </Route>
+                            <Route path="/traffic">
+                                <Traffic />
                             </Route>
 
                             <Route path="/mall">

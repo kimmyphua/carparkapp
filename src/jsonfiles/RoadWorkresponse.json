@@ -1,0 +1,4005 @@
+{
+  "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#RoadWorks",
+  "value": [
+    {
+      "EventID": "RMINRM-202105-0266",
+      "StartDate": "2021-05-05",
+      "EndDate": "2021-07-04",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ADAM PARK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0214",
+      "StartDate": "2020-11-18",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADAM ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201804-0418",
+      "StartDate": "2018-04-16",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADAM ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0390",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-07-10",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ADAM ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201906-1217",
+      "StartDate": "2019-07-01",
+      "EndDate": "2022-01-22",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADIS ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0211",
+      "StartDate": "2021-04-26",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADMIRALTY LANE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0020",
+      "StartDate": "2020-10-15",
+      "EndDate": "2022-10-15",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADMIRALTY LANE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0525",
+      "StartDate": "2021-05-20",
+      "EndDate": "2021-06-09",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK NORTH",
+      "RoadName": "ADMIRALTY LINK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202007-0464",
+      "StartDate": "2020-07-28",
+      "EndDate": "2023-01-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADMIRALTY LINK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0460",
+      "StartDate": "2021-04-05",
+      "EndDate": "2021-10-05",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADMIRALTY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0113",
+      "StartDate": "2021-05-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ADMIRALTY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0180",
+      "StartDate": "2021-04-20",
+      "EndDate": "2021-08-31",
+      "SvcDept": "SP POWERGRID LTD - EHV PROJECTS",
+      "RoadName": "ADMIRALTY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1550",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-10",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0993",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-05",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0353",
+      "StartDate": "2021-05-09",
+      "EndDate": "2021-07-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0366",
+      "StartDate": "2021-05-06",
+      "EndDate": "2021-07-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0100",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-12-31",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0099",
+      "StartDate": "2021-04-29",
+      "EndDate": "2021-06-20",
+      "SvcDept": "SPTEL PTE LTD",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0762",
+      "StartDate": "2021-04-05",
+      "EndDate": "2021-08-31",
+      "SvcDept": "SP POWERGRID LTD - EHV PROJECTS",
+      "RoadName": "ADMIRALTY ROAD WEST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0018",
+      "StartDate": "2020-11-10",
+      "EndDate": "2024-05-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ADMIRALTY STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201708-0465",
+      "StartDate": "2017-08-31",
+      "EndDate": "2022-09-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AH HOOD ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0723",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-10",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "AIRPORT ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0601",
+      "StartDate": "2021-04-13",
+      "EndDate": "2021-06-12",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "AIRPORT ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0227",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-13",
+      "SvcDept": "STARHUB LTD - TS",
+      "RoadName": "ALBERT STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0150",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-16",
+      "SvcDept": "SUPERLOOP (SINGAPORE) PTE. LTD.",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0149",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-13",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ WEST",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1212",
+      "StartDate": "2021-05-17",
+      "EndDate": "2021-07-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-1334",
+      "StartDate": "2021-01-26",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202001-1160",
+      "StartDate": "2020-01-31",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201908-0343",
+      "StartDate": "2019-08-12",
+      "EndDate": "2024-03-17",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201712-0063",
+      "StartDate": "2017-12-15",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALEXANDRA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0332",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ALEXANDRA TERRACE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0286",
+      "StartDate": "2021-04-21",
+      "EndDate": "2021-08-21",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK EAST",
+      "RoadName": "ALJUNIED AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0816",
+      "StartDate": "2021-04-01",
+      "EndDate": "2022-10-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ALJUNIED CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1848",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-07-13",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1623",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1553",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0107",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2366",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0220",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK SOUTH",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1592",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-12-24",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0413",
+      "StartDate": "2021-05-16",
+      "EndDate": "2021-07-16",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0086",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-07-12",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (EAST)",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0135",
+      "StartDate": "2021-02-04",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0138",
+      "StartDate": "2021-02-04",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-1122",
+      "StartDate": "2021-02-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-1124",
+      "StartDate": "2021-02-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0778",
+      "StartDate": "2020-12-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0779",
+      "StartDate": "2020-12-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0604",
+      "StartDate": "2020-11-26",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0899",
+      "StartDate": "2020-11-26",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0507",
+      "StartDate": "2020-11-25",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0533",
+      "StartDate": "2020-11-25",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1616",
+      "StartDate": "2020-06-22",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "ALJUNIED ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-1177",
+      "StartDate": "2021-03-29",
+      "EndDate": "2024-06-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ALKAFF CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0456",
+      "StartDate": "2021-03-01",
+      "EndDate": "2023-02-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AMBER GARDENS",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1461",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "AMBER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0519",
+      "StartDate": "2021-03-27",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AMBER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1601",
+      "StartDate": "2020-06-22",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "AMBER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201812-0177",
+      "StartDate": "2018-12-12",
+      "EndDate": "2021-08-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AMBER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0666",
+      "StartDate": "2021-04-21",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANAMALAI AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-1195",
+      "StartDate": "2021-03-30",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANAMALAI AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201912-0411",
+      "StartDate": "2019-12-20",
+      "EndDate": "2021-09-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANAMALAI AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201904-1294",
+      "StartDate": "2019-04-29",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANAMALAI AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0394",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-06-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANCHORVALE DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201806-0237",
+      "StartDate": "2018-06-11",
+      "EndDate": "2021-08-31",
+      "SvcDept": "HOUSING DEVELOPMENT BOARD",
+      "RoadName": "ANCHORVALE ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0958",
+      "StartDate": "2020-09-28",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANCHORVALE STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-0325",
+      "StartDate": "2019-11-21",
+      "EndDate": "2021-11-26",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANCHORVALE STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-0299",
+      "StartDate": "2019-11-20",
+      "EndDate": "2021-11-26",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANCHORVALE STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0124",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-09-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2387",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ANG MO KIO AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2379",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ANG MO KIO AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1612",
+      "StartDate": "2021-05-20",
+      "EndDate": "2021-07-19",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ANG MO KIO AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-1775",
+      "StartDate": "2021-04-28",
+      "EndDate": "2021-12-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0019",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 1 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-1054",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-16",
+      "SvcDept": "SPTEL PTE LTD",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1724",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1863",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-10-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1727",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0114",
+      "StartDate": "2021-05-02",
+      "EndDate": "2021-07-31",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0122",
+      "StartDate": "2020-10-19",
+      "EndDate": "2021-10-18",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0480",
+      "StartDate": "2020-09-16",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 10",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2053",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-08-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 2",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0296",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-07-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0061",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-07-02",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2243",
+      "StartDate": "2021-05-29",
+      "EndDate": "2021-06-20",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1955",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1663",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1670",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1665",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1121",
+      "StartDate": "2021-05-14",
+      "EndDate": "2021-06-14",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0157",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-08-02",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1014",
+      "StartDate": "2021-04-20",
+      "EndDate": "2021-06-30",
+      "SvcDept": "STARHUB LTD - MNI",
+      "RoadName": "ANG MO KIO AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0045",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-17",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0047",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-17",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1726",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 3 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1684",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 4",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0888",
+      "StartDate": "2021-05-11",
+      "EndDate": "2021-06-14",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 4",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-2061",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-21",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1837",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-23",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1951",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-26",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1564",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-16",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0229",
+      "StartDate": "2021-05-18",
+      "EndDate": "2021-06-07",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0073",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-23",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0881",
+      "StartDate": "2021-04-27",
+      "EndDate": "2021-07-30",
+      "SvcDept": "PUB - (WSN DEPT) - CUSTOMER SUPPLY",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-1196",
+      "StartDate": "2020-10-02",
+      "EndDate": "2022-10-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201907-0215",
+      "StartDate": "2019-07-08",
+      "EndDate": "2021-12-02",
+      "SvcDept": "MINISTRY OF EDUCATION",
+      "RoadName": "ANG MO KIO AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1762",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 5 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1538",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 5 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1544",
+      "StartDate": "2021-05-01",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0085",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-06-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0231",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0021",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0043",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-17",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0029",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-14",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0044",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-17",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0168",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0026",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1952",
+      "StartDate": "2021-05-27",
+      "EndDate": "2021-06-27",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0855",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1398",
+      "StartDate": "2021-05-17",
+      "EndDate": "2021-11-17",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0086",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-06-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2253",
+      "StartDate": "2021-05-29",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1539",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1728",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO AVENUE 8 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202007-0258",
+      "StartDate": "2020-08-03",
+      "EndDate": "2023-10-02",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO AVENUE 9",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0380",
+      "StartDate": "2021-02-16",
+      "EndDate": "2022-02-15",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO INDUSTRIAL PARK 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0184",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-06-19",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO STREET 21",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0965",
+      "StartDate": "2021-03-26",
+      "EndDate": "2024-09-18",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 21",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201908-0799",
+      "StartDate": "2019-09-01",
+      "EndDate": "2022-07-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 21",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-0396",
+      "StartDate": "2021-01-02",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 22",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0963",
+      "StartDate": "2021-02-18",
+      "EndDate": "2022-02-17",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 31",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0793",
+      "StartDate": "2021-03-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 32",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1725",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO STREET 42",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202102-1275",
+      "StartDate": "2021-03-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANG MO KIO STREET 43",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0424",
+      "StartDate": "2021-02-16",
+      "EndDate": "2022-02-15",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 43",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0154",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "ANG MO KIO STREET 52",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202002-1233",
+      "StartDate": "2020-03-09",
+      "EndDate": "2021-10-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 64",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201909-1217",
+      "StartDate": "2019-10-11",
+      "EndDate": "2022-03-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANG MO KIO STREET 64",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1566",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-13",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "ANG MO KIO STREET 65",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202009-1062",
+      "StartDate": "2020-10-13",
+      "EndDate": "2021-10-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANGORA CLOSE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201904-0554",
+      "StartDate": "2019-04-22",
+      "EndDate": "2021-11-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "ANGULLIA PARK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1457",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "ANSON ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1697",
+      "StartDate": "2020-06-24",
+      "EndDate": "2021-06-23",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "ANSON ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-1242",
+      "StartDate": "2019-12-02",
+      "EndDate": "2024-03-17",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "ANSON ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-0313",
+      "StartDate": "2021-03-08",
+      "EndDate": "2021-09-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ANTHONY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1907",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ARAB STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1801",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "ARAB STREET (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-2140",
+      "StartDate": "2020-12-30",
+      "EndDate": "2021-12-29",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "ARTHUR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0701",
+      "StartDate": "2021-04-24",
+      "EndDate": "2021-06-27",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (EAST)",
+      "RoadName": "AVIATION PARK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0068",
+      "StartDate": "2021-04-04",
+      "EndDate": "2022-11-06",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AVIATION PARK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-0459",
+      "StartDate": "2020-12-21",
+      "EndDate": "2021-06-29",
+      "SvcDept": "STARHUB LTD - TS",
+      "RoadName": "AVIATION PARK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0015",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER MERBAU ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0735",
+      "StartDate": "2021-04-21",
+      "EndDate": "2021-09-16",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER MERBAU ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-1104",
+      "StartDate": "2020-03-30",
+      "EndDate": "2022-03-23",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER MERBAU ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0331",
+      "StartDate": "2021-04-08",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "AYER RAJAH AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0860",
+      "StartDate": "2021-02-24",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-0238",
+      "StartDate": "2021-01-08",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0532",
+      "StartDate": "2021-05-20",
+      "EndDate": "2021-06-09",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK CENTRAL",
+      "RoadName": "AYER RAJAH CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0658",
+      "StartDate": "2021-04-19",
+      "EndDate": "2021-06-30",
+      "SvcDept": "GLOBAL TRANSIT SINGAPORE PTE. LTD",
+      "RoadName": "AYER RAJAH CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0056",
+      "StartDate": "2021-01-04",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "AYER RAJAH CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-1083",
+      "StartDate": "2020-11-30",
+      "EndDate": "2022-04-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0225",
+      "StartDate": "2020-11-23",
+      "EndDate": "2021-11-22",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "AYER RAJAH CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0062",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0060",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0132",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1842",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0134",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1840",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0435",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "HOME TEAM SCIENCE AND TECHNOLOGY AGENCY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1511",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-18",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0508",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-11",
+      "SvcDept": "HOME TEAM SCIENCE AND TECHNOLOGY AGENCY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0512",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-11",
+      "SvcDept": "HOME TEAM SCIENCE AND TECHNOLOGY AGENCY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0271",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-06-09",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1925",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-06-09",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-0301",
+      "StartDate": "2021-03-08",
+      "EndDate": "2021-09-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0214",
+      "StartDate": "2021-01-05",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0564",
+      "StartDate": "2020-10-20",
+      "EndDate": "2021-10-20",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0535",
+      "StartDate": "2020-09-05",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0951",
+      "StartDate": "2020-08-31",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0502",
+      "StartDate": "2020-08-25",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202005-0181",
+      "StartDate": "2020-07-29",
+      "EndDate": "2022-06-30",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202006-0180",
+      "StartDate": "2020-07-01",
+      "EndDate": "2023-10-31",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202004-0065",
+      "StartDate": "2020-04-02",
+      "EndDate": "2022-09-13",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202002-0596",
+      "StartDate": "2020-03-09",
+      "EndDate": "2021-12-22",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-1044",
+      "StartDate": "2019-12-03",
+      "EndDate": "2022-12-03",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-1238",
+      "StartDate": "2019-12-02",
+      "EndDate": "2021-10-07",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201905-0985",
+      "StartDate": "2019-06-24",
+      "EndDate": "2023-06-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201810-0568",
+      "StartDate": "2018-10-17",
+      "EndDate": "2024-03-31",
+      "SvcDept": "PUB - DEEP TUNNEL SEWERAGE SYSTEM DEPARTMENT",
+      "RoadName": "AYER RAJAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-0823",
+      "StartDate": "2021-02-08",
+      "EndDate": "2021-06-08",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALAM ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1010",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-06-11",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ EAST",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0917",
+      "StartDate": "2021-05-15",
+      "EndDate": "2021-06-16",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0269",
+      "StartDate": "2021-05-05",
+      "EndDate": "2021-07-04",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-1378",
+      "StartDate": "2020-12-31",
+      "EndDate": "2022-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0824",
+      "StartDate": "2020-10-26",
+      "EndDate": "2021-10-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202004-0444",
+      "StartDate": "2020-06-02",
+      "EndDate": "2021-10-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202002-0942",
+      "StartDate": "2020-03-20",
+      "EndDate": "2021-10-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201908-0162",
+      "StartDate": "2019-08-14",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALESTIER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0915",
+      "StartDate": "2021-05-15",
+      "EndDate": "2021-06-16",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BALESTIER ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1987",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BALMORAL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1852",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-07-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALMORAL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0056",
+      "StartDate": "2021-04-15",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BALMORAL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1862",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-14",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANDA STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0871",
+      "StartDate": "2021-05-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BANDA STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0628",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-07-31",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "BANGKIT ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0575",
+      "StartDate": "2020-09-24",
+      "EndDate": "2021-06-30",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (WEST)",
+      "RoadName": "BANGKIT ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0071",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-23",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANYAN AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-0335",
+      "StartDate": "2020-04-01",
+      "EndDate": "2022-10-07",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANYAN AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201909-0100",
+      "StartDate": "2019-09-16",
+      "EndDate": "2021-09-20",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANYAN AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0841",
+      "StartDate": "2021-03-08",
+      "EndDate": "2022-03-07",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "BANYAN DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0334",
+      "StartDate": "2021-03-08",
+      "EndDate": "2021-07-31",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (WEST)",
+      "RoadName": "BANYAN DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0779",
+      "StartDate": "2020-09-19",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANYAN DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202004-0244",
+      "StartDate": "2020-05-04",
+      "EndDate": "2023-03-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BANYAN ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0711",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-21",
+      "SvcDept": "STARHUB LTD - TS",
+      "RoadName": "BARTLEY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0168",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-10-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BARTLEY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1005",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-07-11",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BARTLEY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202011-1023",
+      "StartDate": "2020-11-20",
+      "EndDate": "2021-11-19",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BARTLEY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1749",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BARTLEY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1748",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BARTLEY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0117",
+      "StartDate": "2021-05-02",
+      "EndDate": "2021-07-31",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BARTLEY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0890",
+      "StartDate": "2020-08-30",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BARTLEY ROAD EAST",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0243",
+      "StartDate": "2021-03-15",
+      "EndDate": "2023-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BATTERY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-1116",
+      "StartDate": "2020-04-03",
+      "EndDate": "2021-06-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BATTERY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202002-1039",
+      "StartDate": "2020-03-01",
+      "EndDate": "2021-06-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BATTERY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1978",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BAYFRONT AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0464",
+      "StartDate": "2020-11-22",
+      "EndDate": "2021-09-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BAYFRONT AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2010",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BAYSHORE ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0999",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BAYSHORE ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0285",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-06-19",
+      "SvcDept": "SP POWERGRID LTD - GAS DIVISION",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0172",
+      "StartDate": "2021-06-04",
+      "EndDate": "2021-07-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0160",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1975",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2370",
+      "StartDate": "2021-05-29",
+      "EndDate": "2021-06-11",
+      "SvcDept": "SP POWERGRID LTD - GAS DIVISION",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1744",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-11-24",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1421",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0205",
+      "StartDate": "2020-09-17",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0178",
+      "StartDate": "2020-09-16",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1380",
+      "StartDate": "2020-06-20",
+      "EndDate": "2021-06-19",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEACH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-1834",
+      "StartDate": "2021-04-02",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEACH ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0968",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEDOK CENTRAL",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1606",
+      "StartDate": "2020-06-22",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEDOK CENTRAL",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2393",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2388",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1811",
+      "StartDate": "2021-05-28",
+      "EndDate": "2021-06-08",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0423",
+      "StartDate": "2021-04-26",
+      "EndDate": "2021-06-07",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (EAST)",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0276",
+      "StartDate": "2021-01-13",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0282",
+      "StartDate": "2021-01-13",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202011-1399",
+      "StartDate": "2020-12-02",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202011-1400",
+      "StartDate": "2020-12-02",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 1 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1808",
+      "StartDate": "2021-04-29",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 2 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1804",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 3 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0031",
+      "StartDate": "2021-06-02",
+      "EndDate": "2021-06-11",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 4",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0043",
+      "StartDate": "2021-03-18",
+      "EndDate": "2021-08-16",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK NORTH AVENUE 4",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1815",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH AVENUE 4 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201901-0693",
+      "StartDate": "2019-01-22",
+      "EndDate": "2021-07-20",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK NORTH DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201707-0369",
+      "StartDate": "2017-07-25",
+      "EndDate": "2021-08-20",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK NORTH DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0675",
+      "StartDate": "2021-04-20",
+      "EndDate": "2021-06-21",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-2051",
+      "StartDate": "2021-01-05",
+      "EndDate": "2021-08-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-2048",
+      "StartDate": "2021-01-05",
+      "EndDate": "2021-08-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-1515",
+      "StartDate": "2020-10-31",
+      "EndDate": "2021-08-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-1514",
+      "StartDate": "2020-10-31",
+      "EndDate": "2021-08-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-1512",
+      "StartDate": "2020-10-31",
+      "EndDate": "2021-08-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0077",
+      "StartDate": "2020-08-12",
+      "EndDate": "2021-08-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH DRIVE (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2198",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1574",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-24",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0283",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0288",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0285",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-1259",
+      "StartDate": "2021-04-12",
+      "EndDate": "2022-04-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202102-0378",
+      "StartDate": "2021-02-08",
+      "EndDate": "2022-02-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0284",
+      "StartDate": "2021-01-13",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0287",
+      "StartDate": "2021-01-13",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-1392",
+      "StartDate": "2020-08-28",
+      "EndDate": "2021-08-29",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BEDOK NORTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-0279",
+      "StartDate": "2021-01-13",
+      "EndDate": "2021-09-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH STREET 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1814",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH STREET 1 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1811",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-06-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH STREET 2 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0396",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK NORTH STREET 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0258",
+      "StartDate": "2021-06-05",
+      "EndDate": "2021-06-12",
+      "SvcDept": "M1 LIMITED",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0158",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-06-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0756",
+      "StartDate": "2021-05-14",
+      "EndDate": "2022-05-13",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-1030",
+      "StartDate": "2021-04-05",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK MANAGEMENT PTE LTD (AS TRUSTEE OF NETLINK TRUST)",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0912",
+      "StartDate": "2021-03-25",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0593",
+      "StartDate": "2021-03-19",
+      "EndDate": "2022-10-03",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-1091",
+      "StartDate": "2021-01-22",
+      "EndDate": "2022-01-21",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-1418",
+      "StartDate": "2021-01-11",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-0988",
+      "StartDate": "2020-12-14",
+      "EndDate": "2021-12-13",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0813",
+      "StartDate": "2020-11-30",
+      "EndDate": "2021-11-29",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0817",
+      "StartDate": "2020-11-30",
+      "EndDate": "2021-11-29",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202009-0016",
+      "StartDate": "2020-09-01",
+      "EndDate": "2021-09-02",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201903-1135",
+      "StartDate": "2019-03-31",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201808-0521",
+      "StartDate": "2018-08-17",
+      "EndDate": "2021-07-09",
+      "SvcDept": "HOUSING DEVELOPMENT BOARD",
+      "RoadName": "BEDOK RESERVOIR ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1619",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BEDOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2176",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-2059",
+      "StartDate": "2020-10-31",
+      "EndDate": "2021-10-30",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BEDOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1606",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BEDOK SOUTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0391",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-0961",
+      "StartDate": "2020-10-15",
+      "EndDate": "2021-10-14",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BEDOK SOUTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0163",
+      "StartDate": "2020-09-17",
+      "EndDate": "2021-12-17",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK SOUTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202005-0033",
+      "StartDate": "2020-06-08",
+      "EndDate": "2021-06-08",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BEDOK SOUTH AVENUE 1",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0389",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-06",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH AVENUE 2",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1021",
+      "StartDate": "2021-05-14",
+      "EndDate": "2021-07-14",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH AVENUE 3",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1025",
+      "StartDate": "2021-05-18",
+      "EndDate": "2021-09-20",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1408",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEDOK SOUTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-0323",
+      "StartDate": "2021-01-01",
+      "EndDate": "2021-12-31",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BEDOK SOUTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201706-0318",
+      "StartDate": "2017-06-12",
+      "EndDate": "2021-06-18",
+      "SvcDept": "HOUSING DEVELOPMENT BOARD",
+      "RoadName": "BEDOK SOUTH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1598",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-06-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0651",
+      "StartDate": "2021-05-14",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0914",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BEDOK SOUTH ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0039",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-07",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BELMONT ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-201912-0001",
+      "StartDate": "2019-12-26",
+      "EndDate": "2021-08-05",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BELMONT ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1971",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENCOOLEN STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0867",
+      "StartDate": "2021-04-06",
+      "EndDate": "2021-10-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENCOOLEN STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0857",
+      "StartDate": "2020-08-20",
+      "EndDate": "2021-08-19",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENCOOLEN STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0512",
+      "StartDate": "2020-08-14",
+      "EndDate": "2021-08-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENCOOLEN STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1437",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-10",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0572",
+      "StartDate": "2021-04-15",
+      "EndDate": "2021-08-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0571",
+      "StartDate": "2021-04-15",
+      "EndDate": "2021-08-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-1840",
+      "StartDate": "2020-12-30",
+      "EndDate": "2021-06-29",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-1263",
+      "StartDate": "2020-10-21",
+      "EndDate": "2021-09-21",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0851",
+      "StartDate": "2020-08-20",
+      "EndDate": "2021-08-19",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0852",
+      "StartDate": "2020-08-20",
+      "EndDate": "2021-08-19",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202006-1602",
+      "StartDate": "2020-06-22",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BENDEMEER ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202001-0620",
+      "StartDate": "2020-01-07",
+      "EndDate": "2022-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BENDEMEER ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0098",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-15",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BENG WAN ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0748",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1012",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-20",
+      "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1639",
+      "StartDate": "2021-05-30",
+      "EndDate": "2021-06-17",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT III",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0940",
+      "StartDate": "2021-04-01",
+      "EndDate": "2021-11-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0181",
+      "StartDate": "2020-11-16",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201904-1212",
+      "StartDate": "2019-04-24",
+      "EndDate": "2022-03-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201709-0643",
+      "StartDate": "2017-09-30",
+      "EndDate": "2023-10-14",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENOI ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202001-0805",
+      "StartDate": "2020-01-27",
+      "EndDate": "2022-03-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BENOI SECTOR",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-1071",
+      "StartDate": "2021-04-22",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BERNAM STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-1921",
+      "StartDate": "2021-02-04",
+      "EndDate": "2022-02-03",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BERNAM STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-0701",
+      "StartDate": "2020-03-25",
+      "EndDate": "2023-03-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BERNAM STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1904",
+      "StartDate": "2021-05-28",
+      "EndDate": "2021-06-16",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BERRIMA ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201611-0848",
+      "StartDate": "2016-12-12",
+      "EndDate": "2021-07-27",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BERWICK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-2188",
+      "StartDate": "2021-05-29",
+      "EndDate": "2021-10-21",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1597",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-08-24",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (EAST)",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-1004",
+      "StartDate": "2021-01-29",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0801",
+      "StartDate": "2020-12-01",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0872",
+      "StartDate": "2020-11-30",
+      "EndDate": "2022-12-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-1257",
+      "StartDate": "2020-10-15",
+      "EndDate": "2021-11-07",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0365",
+      "StartDate": "2020-09-16",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0198",
+      "StartDate": "2020-08-10",
+      "EndDate": "2022-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201912-0758",
+      "StartDate": "2019-12-30",
+      "EndDate": "2021-07-04",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201905-0501",
+      "StartDate": "2019-05-17",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201902-1030",
+      "StartDate": "2019-05-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201812-0180",
+      "StartDate": "2019-01-02",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201812-0826",
+      "StartDate": "2018-12-31",
+      "EndDate": "2021-12-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201811-0540",
+      "StartDate": "2018-11-21",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201811-0016",
+      "StartDate": "2018-11-05",
+      "EndDate": "2021-12-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201809-0966",
+      "StartDate": "2018-11-01",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIDADARI PARK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-1876",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-21",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK EAST",
+      "RoadName": "BIGGIN HILL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0091",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-07",
+      "SvcDept": "STARHUB CABLE VISION LTD",
+      "RoadName": "BIGGIN HILL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0133",
+      "StartDate": "2020-08-05",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BIOPOLIS ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2418",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-06-18",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BISHAN STREET 11",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-1523",
+      "StartDate": "2021-05-17",
+      "EndDate": "2021-06-25",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BISHAN STREET 11",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0335",
+      "StartDate": "2021-02-16",
+      "EndDate": "2024-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BISHAN STREET 11",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1733",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-12-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BISHAN STREET 13",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0261",
+      "StartDate": "2021-05-18",
+      "EndDate": "2021-06-07",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION NETWORK CENTRAL",
+      "RoadName": "BISHAN STREET 14",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0654",
+      "StartDate": "2021-03-01",
+      "EndDate": "2025-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BISHAN STREET 14",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0108",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-08-02",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BISHAN STREET 21",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0471",
+      "StartDate": "2020-08-27",
+      "EndDate": "2021-08-26",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BLACKMORE DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0667",
+      "StartDate": "2021-04-30",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON KENG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-1930",
+      "StartDate": "2021-02-08",
+      "EndDate": "2022-02-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BOON KENG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-0843",
+      "StartDate": "2020-03-23",
+      "EndDate": "2024-04-12",
+      "SvcDept": "HOUSING DEVELOPMENT BOARD",
+      "RoadName": "BOON KENG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-1777",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-10",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ WEST",
+      "RoadName": "BOON LAY AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202010-0587",
+      "StartDate": "2020-10-16",
+      "EndDate": "2022-06-16",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201908-0195",
+      "StartDate": "2019-08-14",
+      "EndDate": "2022-06-16",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0163",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-13",
+      "SvcDept": "SPTEL PTE LTD",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0517",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-10",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ WEST",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0087",
+      "StartDate": "2021-05-14",
+      "EndDate": "2021-08-13",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0383",
+      "StartDate": "2021-04-23",
+      "EndDate": "2021-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-0068",
+      "StartDate": "2021-03-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0289",
+      "StartDate": "2020-09-05",
+      "EndDate": "2021-09-05",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202006-0214",
+      "StartDate": "2020-07-01",
+      "EndDate": "2022-04-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-1117",
+      "StartDate": "2020-03-28",
+      "EndDate": "2023-05-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202001-0963",
+      "StartDate": "2020-03-19",
+      "EndDate": "2023-05-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-1314",
+      "StartDate": "2019-12-01",
+      "EndDate": "2021-12-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201910-0481",
+      "StartDate": "2019-11-08",
+      "EndDate": "2023-05-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201908-0845",
+      "StartDate": "2019-08-22",
+      "EndDate": "2023-07-15",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201905-1074",
+      "StartDate": "2019-05-31",
+      "EndDate": "2021-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOON LAY WAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0393",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BOON LAY WAY (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1861",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-06-08",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BOON TAT LINK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202101-1927",
+      "StartDate": "2021-02-08",
+      "EndDate": "2022-02-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BOON TAT LINK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1611",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-18",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BOON TAT STREET",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202101-0517",
+      "StartDate": "2021-01-14",
+      "EndDate": "2023-01-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOSCOMBE ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-0364",
+      "StartDate": "2020-12-15",
+      "EndDate": "2022-07-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOUNDARY CLOSE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0751",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-10",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BOUNDARY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0106",
+      "StartDate": "2021-05-02",
+      "EndDate": "2021-07-31",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BOUNDARY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-1474",
+      "StartDate": "2021-03-29",
+      "EndDate": "2021-06-28",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BOUNDARY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202011-1022",
+      "StartDate": "2020-11-20",
+      "EndDate": "2021-11-19",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BOUNDARY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201706-0758",
+      "StartDate": "2017-06-27",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PUB - (WSN DEPT) - NETWORK DESIGN AND CONSTRUCTION",
+      "RoadName": "BOUNDARY ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202010-1202",
+      "StartDate": "2020-10-20",
+      "EndDate": "2021-10-19",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BOWMONT GARDENS",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1717",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-07-23",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BRADDELL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1614",
+      "StartDate": "2021-05-19",
+      "EndDate": "2021-06-18",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BRADDELL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0997",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-07-11",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BRADDELL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0861",
+      "StartDate": "2021-05-11",
+      "EndDate": "2021-06-11",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BRADDELL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1593",
+      "StartDate": "2021-05-29",
+      "EndDate": "2021-06-10",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BRAS BASAH ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0528",
+      "StartDate": "2021-05-08",
+      "EndDate": "2021-07-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BRICKLAND ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0326",
+      "StartDate": "2021-04-25",
+      "EndDate": "2021-10-24",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BRICKLAND ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-0384",
+      "StartDate": "2020-03-11",
+      "EndDate": "2022-02-25",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BRICKLAND ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0281",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-06-14",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ EAST",
+      "RoadName": "BRIGHT HILL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0633",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-06-14",
+      "SvcDept": "SP POWERGRID LTD - REGIONAL PROJ EAST",
+      "RoadName": "BRIGHT HILL ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202011-0546",
+      "StartDate": "2020-11-10",
+      "EndDate": "2021-11-09",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BRIGHTON AVENUE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0752",
+      "StartDate": "2021-04-18",
+      "EndDate": "2021-06-18",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BRIZAY PARK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202003-1095",
+      "StartDate": "2020-04-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BRIZAY PARK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0517",
+      "StartDate": "2021-03-27",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BROADRICK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-1132",
+      "StartDate": "2021-01-05",
+      "EndDate": "2021-07-04",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BROADRICK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-2135",
+      "StartDate": "2020-12-30",
+      "EndDate": "2021-12-22",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BROOKE ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2209",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUANGKOK CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201805-0051",
+      "StartDate": "2018-05-14",
+      "EndDate": "2021-12-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUANGKOK CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201804-0363",
+      "StartDate": "2018-04-16",
+      "EndDate": "2021-12-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUANGKOK CRESCENT",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0397",
+      "StartDate": "2020-11-30",
+      "EndDate": "2022-11-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUANGKOK DRIVE",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-1921",
+      "StartDate": "2021-03-31",
+      "EndDate": "2022-03-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUANGKOK GREEN",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202001-0270",
+      "StartDate": "2020-01-13",
+      "EndDate": "2022-02-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUANGKOK GREEN",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201905-1098",
+      "StartDate": "2019-06-15",
+      "EndDate": "2022-02-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUANGKOK GREEN",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201808-1005",
+      "StartDate": "2018-08-31",
+      "EndDate": "2022-02-01",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BUANGKOK GREEN",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0200",
+      "StartDate": "2021-06-03",
+      "EndDate": "2021-08-02",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BUFFALO ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0720",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-12",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT II",
+      "RoadName": "BUKIT BATOK CENTRAL",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0806",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 2 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0803",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 2 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0804",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 2 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1959",
+      "StartDate": "2021-05-25",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0253",
+      "StartDate": "2021-06-05",
+      "EndDate": "2022-06-04",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-0500",
+      "StartDate": "2020-12-09",
+      "EndDate": "2021-06-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0399",
+      "StartDate": "2021-05-10",
+      "EndDate": "2021-06-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0825",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0821",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0822",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0823",
+      "StartDate": "2020-09-03",
+      "EndDate": "2025-01-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK EAST AVENUE 6 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1604",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-25",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0232",
+      "StartDate": "2021-05-15",
+      "EndDate": "2021-10-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0525",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202104-0395",
+      "StartDate": "2021-04-26",
+      "EndDate": "2021-07-17",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0822",
+      "StartDate": "2020-12-02",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202012-0078",
+      "StartDate": "2020-12-01",
+      "EndDate": "2021-11-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-0269",
+      "StartDate": "2020-09-24",
+      "EndDate": "2021-09-24",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0780",
+      "StartDate": "2020-08-26",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-0239",
+      "StartDate": "2020-08-21",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PUB - (WSN DEPT) - CUSTOMER PROJECTS",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202002-1127",
+      "StartDate": "2020-03-03",
+      "EndDate": "2021-06-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202001-0468",
+      "StartDate": "2020-01-17",
+      "EndDate": "2023-04-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201906-0590",
+      "StartDate": "2019-06-21",
+      "EndDate": "2023-11-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201904-1202",
+      "StartDate": "2019-04-30",
+      "EndDate": "2021-06-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201808-0763",
+      "StartDate": "2018-09-01",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201808-1136",
+      "StartDate": "2018-08-31",
+      "EndDate": "2021-06-12",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202102-1731",
+      "StartDate": "2021-02-26",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK STREET 52",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0526",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202005-0027",
+      "StartDate": "2020-06-01",
+      "EndDate": "2021-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201912-0561",
+      "StartDate": "2019-12-16",
+      "EndDate": "2021-06-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 5",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2419",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 5 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202103-0930",
+      "StartDate": "2021-04-02",
+      "EndDate": "2022-04-01",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202008-1020",
+      "StartDate": "2020-09-01",
+      "EndDate": "2021-08-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202008-0826",
+      "StartDate": "2020-08-31",
+      "EndDate": "2021-08-24",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201904-1256",
+      "StartDate": "2019-04-30",
+      "EndDate": "2022-03-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201901-0448",
+      "StartDate": "2019-01-14",
+      "EndDate": "2022-03-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201803-0024",
+      "StartDate": "2018-03-01",
+      "EndDate": "2022-03-11",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 6",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0527",
+      "StartDate": "2021-05-07",
+      "EndDate": "2021-07-15",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 7",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0174",
+      "StartDate": "2021-02-06",
+      "EndDate": "2021-10-29",
+      "SvcDept": "SP POWERGRID LTD - CUSTOMER PROJ (WEST)",
+      "RoadName": "BUKIT BATOK WEST AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202011-0119",
+      "StartDate": "2020-11-20",
+      "EndDate": "2021-06-21",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202009-1060",
+      "StartDate": "2020-10-01",
+      "EndDate": "2026-09-30",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-0997",
+      "StartDate": "2019-12-05",
+      "EndDate": "2021-12-04",
+      "SvcDept": "SP POWERGRID LTD - DISTRIBUTION PROJECT III",
+      "RoadName": "BUKIT BATOK WEST AVENUE 8",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0278",
+      "StartDate": "2021-04-13",
+      "EndDate": "2021-10-13",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 9",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202102-0893",
+      "StartDate": "2021-02-28",
+      "EndDate": "2024-02-28",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT BATOK WEST AVENUE 9",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0869",
+      "StartDate": "2021-04-20",
+      "EndDate": "2021-08-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT BATOK WEST AVENUE 9 (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201909-0639",
+      "StartDate": "2019-10-02",
+      "EndDate": "2021-10-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT MERAH VIEW",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-0260",
+      "StartDate": "2021-04-10",
+      "EndDate": "2021-07-09",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202103-0324",
+      "StartDate": "2021-03-04",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-0373",
+      "StartDate": "2020-12-10",
+      "EndDate": "2021-06-08",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-0031",
+      "StartDate": "2020-12-03",
+      "EndDate": "2021-12-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201911-1195",
+      "StartDate": "2019-12-02",
+      "EndDate": "2021-10-07",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT PANJANG RING ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1569",
+      "StartDate": "2021-05-03",
+      "EndDate": "2021-07-31",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-1647",
+      "StartDate": "2021-01-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-1648",
+      "StartDate": "2021-01-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG RING ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2394",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202106-0095",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-15",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2385",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "NETLINK TRUST",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2011",
+      "StartDate": "2021-05-26",
+      "EndDate": "2021-06-09",
+      "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1268",
+      "StartDate": "2021-05-15",
+      "EndDate": "2021-08-14",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0977",
+      "StartDate": "2021-05-11",
+      "EndDate": "2022-05-05",
+      "SvcDept": "SINGTEL - ACCESS NETWORK ENGINEERING DIVISION",
+      "RoadName": "BUKIT PANJANG ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202012-1645",
+      "StartDate": "2021-01-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT PANJANG ROAD (Bus Lane Affected)",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1864",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2001",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-2002",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1967",
+      "StartDate": "2021-05-31",
+      "EndDate": "2021-06-07",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1541",
+      "StartDate": "2021-05-24",
+      "EndDate": "2021-06-24",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1476",
+      "StartDate": "2021-05-22",
+      "EndDate": "2021-06-22",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1584",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-21",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1699",
+      "StartDate": "2021-05-21",
+      "EndDate": "2021-06-20",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1143",
+      "StartDate": "2021-05-20",
+      "EndDate": "2021-06-20",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1510",
+      "StartDate": "2021-05-20",
+      "EndDate": "2021-06-19",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-202105-0088",
+      "StartDate": "2021-05-15",
+      "EndDate": "2021-06-24",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0502",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-11",
+      "SvcDept": "HOME TEAM SCIENCE AND TECHNOLOGY AGENCY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-0916",
+      "StartDate": "2021-05-12",
+      "EndDate": "2021-06-12",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202104-1926",
+      "StartDate": "2021-05-09",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201905-0825",
+      "StartDate": "2019-05-18",
+      "EndDate": "2021-06-14",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT TIMAH EXPRESSWAY",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMAPP-201907-0601",
+      "StartDate": "2019-08-01",
+      "EndDate": "2022-12-31",
+      "SvcDept": "PRIVATE",
+      "RoadName": "BUKIT TIMAH LINK",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1953",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH ROAD",
+      "Other": "For details"
+    },
+    {
+      "EventID": "RMINRM-202105-1950",
+      "StartDate": "2021-06-01",
+      "EndDate": "2021-06-30",
+      "SvcDept": "LAND TRANSPORT AUTHORITY",
+      "RoadName": "BUKIT TIMAH ROAD",
+      "Other": "For details"
+    }
+  ]
+}

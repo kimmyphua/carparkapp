@@ -17,9 +17,9 @@ function Mall({ address, name, rating, officialWebsite, location, description}) 
                     <Modal.Title>{name}</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <p className="font-weight-bold" >Address: {address.block}, {address.streetName}, {address.postalCode} </p>
+                    <h5 className="font-weight-bold" >Address: {address.block}, {address.streetName}, {address.postalCode} </h5>
                     <h5>{description}</h5>
-                    <p className="font-weight-light">Mall Rating: {rating}</p>
+                    <p className="font-weight-light"> ♥ Mall Rating: {rating}</p>
                 </Modal.Body>
                     <ModalFooter>
                     <a href={officialWebsite} target="_blank"> [Link to website!] </a>

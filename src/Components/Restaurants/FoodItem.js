@@ -41,7 +41,7 @@ function FoodItem({address, name, cuisine, officialWebsite, reviews, description
 
                 <Modal show={showRev} onHide={handleCloseRev}>
                     <Modal.Header closeButton>
-                        <Modal.Title>Reviews</Modal.Title>
+                        <Modal.Title>Reviews ♥</Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
                         <h6 className="font-weight-light">

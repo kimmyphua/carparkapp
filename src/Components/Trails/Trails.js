@@ -84,8 +84,9 @@ function Trails(props) {
                             <p><Time /></p>
                             Trail Finder: Reconnect with nature!
                             <SearchForm searchText={setKeyword}/>
-
+                            <p>If Markers start to build up, please reload page or click the button below.</p>
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers </button>
+
 
                         </h4>
                     </Col>

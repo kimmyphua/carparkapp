@@ -12,7 +12,7 @@ console.log(contact)
             <Container>
                 <Col md={8} className="border-bottom border-2 p-4 text-center">
                     <button onClick={handleShow} className="px-4 py-2 my-2 clickable light-green"> <h3>{name} ♥</h3></button>
-                    <p>^ Click to Learn More!</p>
+                    <p>^ Click to Learn More </p>
                     <p className="font-weight-light"> {type}</p>
                     {contact.primaryContactNo ? <p>Primary Contact :{contact.primaryContactNo} </p>: " " }
                     {contact.secondaryContactNo ? <p>Secondary Contact :{contact.secondaryContactNo} </p> : " " }

@@ -7,7 +7,7 @@ function Navigation(props) {
         <div>
             <Container>
             <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="/">Weekend Planner App</Navbar.Brand>
+                <Navbar.Brand href="/">Weekend Planner App ♥ </Navbar.Brand>
                 <Nav.Link href="/" className="text-dark">CARPARK</Nav.Link>
                 <Nav.Link href="/traffic" className="text-dark">TRAFFIC</Nav.Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

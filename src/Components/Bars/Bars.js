@@ -48,7 +48,7 @@ function Bars(props) {
                         <p> <Time /></p>
                         I'm looking for a place to drink ...
                         <SearchForm searchText={setKeyword}/>
-
+                        <p>If Markers start to build up, please reload page or click the button below.</p>
                         <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers</button>
                     </h4>
                 </Col>

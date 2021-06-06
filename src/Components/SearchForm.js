@@ -1,12 +1,13 @@
 import React, {useState} from 'react';
 
 
-function SearchForm({searchText,setCarpark}) {
+function SearchForm({searchText,setFood}) {
     const [textForSearch, setTextForSearch] = useState('')
 
     function handleSubmit(e) {
         e.preventDefault()
         searchText(textForSearch)
+
 
     }
 
@@ -16,7 +17,7 @@ function SearchForm({searchText,setCarpark}) {
             <form onSubmit={handleSubmit}>
                 <input
                     type="text"
-                    placeholder="where are you going?"
+                    placeholder="type something!"
                     className="py-1 px-2 rounded-1-lg mt-2"
                     onChange={(e) => setTextForSearch(e.target.value)}
                 />

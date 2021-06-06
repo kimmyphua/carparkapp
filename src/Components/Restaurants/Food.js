@@ -13,7 +13,7 @@ import Time from "../../Time";
 
 function Food(props) {
     const [food, setFood] = useState([])
-    const [keyword, setKeyword] = useState("sushi")
+    const [keyword, setKeyword] = useState("nothinghere")
     // const [show, setShow] = useState(false);
     // const handleClose = () => setShow(false);
     // const handleShow = () => setShow(true);
@@ -49,9 +49,11 @@ function Food(props) {
                         <h4 className="text-center border border-dark light-blue font-weight-light pt-2 px-2">
                             <p><Time /></p>
                             I'm hungry for ...
-                            <SearchForm searchText={setKeyword}/>
-
+                            <SearchForm searchText={setKeyword}
+                            setFood={setFood}/>
+                            <p>If Markers start to build up, please reload page or click the button below.</p>
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers</button>
+
                         </h4>
                     </Col>
 

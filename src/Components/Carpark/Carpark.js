@@ -15,7 +15,7 @@ function Carpark(props) {
     useEffect(() => {
 
         let allCarparks = carParkData.default.value
-        let car2 = allCarparks.filter((all) => all.Development.toLowerCase().includes(keyword))
+        let car2 = allCarparks.filter((all) => all.Development.toLowerCase().includes(keyword.toLowerCase()))
         setCarpark(car2)
     }, [keyword])
 

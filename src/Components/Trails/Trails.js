@@ -78,9 +78,9 @@ function Trails(props) {
             </GoogleMap>
 
                 <Row>
-                    <Col md={4} className="pt-5">
+                    <Col md={4} className=" ">
 
-                        <h4 className="text-center border border-dark light-green font-weight-light pt-2 px-2">
+                        <h5 className="text-center border border-dark light-green font-weight-light pt-2 px-2">
                             <p><Time /></p>
                             Trail Finder: Reconnect with nature!
                             <SearchForm searchText={setKeyword}/>
@@ -88,10 +88,10 @@ function Trails(props) {
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers </button>
 
 
-                        </h4>
+                        </h5>
                     </Col>
 
-                    <Col md={8} className="pt-5">
+                    <Col md={8} className=" ">
                         {trail.map(({officialWebsite, name, type, contact, description,body}, i) => (
                             <Trail
                                 key={i}

@@ -23,19 +23,19 @@ function Carpark(props) {
         <div>
 
                 <Row>
-                    <Col md={4} className="pt-2">
-                        <h4 className="text-center border border-dark pink font-weight-light py-2 px-2">
+                    <Col md={4}>
+                        <h5 className="text-center border border-dark pink font-weight-light px-2">
                             <p><Time/></p>
                             Find your nearest carpark locations!
                             Key in your location to check if there are any available lots currently:<br/>
                             <SearchFormCar searchText={setKeyword}
-                            setCarpark={setCarpark}/> <br/>
-                            Click on the location to see it on the map!
-                        </h4>
+                            setCarpark={setCarpark}/>
+                            <p>Click on the location to see it on the map!</p>
+                        </h5>
 
 
                     </Col>
-                    <Col md={8} className="my-2">
+                    <Col md={8} className="">
                         <div className="carpark-container">
                             {carpark.map(({Development, AvailableLots, Location, LotType, Area, Agency, CarParkID}) => (
                                 <CarparkItem

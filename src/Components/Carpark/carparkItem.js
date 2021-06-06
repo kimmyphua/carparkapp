@@ -42,7 +42,7 @@ function CarparkItem({CarParkID, Development, AvailableLots, Location, LotType, 
                     }}
                     icon={{
                         url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle-icons-car.svg/1200px-Circle-icons-car.svg.png",
-                        scaledSize: new window.google.maps.Size(20, 20)
+                        scaledSize: new window.google.maps.Size(30, 30)
                     }}/>
 
             </GoogleMap>

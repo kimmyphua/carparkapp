@@ -85,18 +85,18 @@ function Malls(props) {
         </GoogleMap>
 
                 <Row className="justify-content-between align-content-center">
-                    <Col md={4} className="pt-2">
-                        <h4 className="text-center border border-dark pink font-weight-light py-2 px-2">
+                    <Col md={4} >
+                        <h5 className="text-center border border-dark pink font-weight-light py-2 px-2">
                             <p> <Time /></p>
                             Mall Finder: Type somewhere you would like to visit!
                             <SearchForm searchText={setKeyword}/>
                             <p>If Markers start to build up, please reload page or click the button below.</p>
                             <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers </button>
 
-                        </h4>
+                        </h5>
                     </Col>
 
-                <Col md={8} className="pt-2 mall-container ">
+                <Col md={8} className=" mall-container ">
                         {mall.map(({address, name, rating, officialWebsite, location, description}, i) => (
                             <Mall
                                 key={i}

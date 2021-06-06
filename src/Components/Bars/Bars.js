@@ -13,7 +13,7 @@ import Time from "../../Time";
 
 function Bars(props) {
     const [bar, setBar] = useState([])
-    const [keyword, setKeyword] = useState(" ç")
+    const [keyword, setKeyword] = useState(" ")
 
 
     function refreshPage() {
@@ -43,17 +43,17 @@ function Bars(props) {
         <div>
 
             <Row>
-                <Col sm={4} className="pt-5">
-                    <h4 className="text-center border border-dark light-blue font-weight-light pt-2 px-2">
+                <Col sm={4} className=" ">
+                    <h5 className="text-center border border-dark light-blue font-weight-light pt-2 px-2">
                         <p> <Time /></p>
                         I'm looking for a place to drink ...
                         <SearchForm searchText={setKeyword}/>
                         <p>If Markers start to build up, please reload page or click the button below.</p>
                         <button className="pb-1 my-2" onClick={refreshPage}> Clear Markers</button>
-                    </h4>
+                    </h5>
                 </Col>
 
-                <Col sm={8} className="pt-5">
+                <Col sm={8} className=" ">
                     {bar.map(({
                                    address,
                                    name,

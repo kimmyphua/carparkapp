@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import * as carParkData from '../../jsonfiles/carparkdata.json'
-import {Container, Button, Col, Row} from "react-bootstrap";
+import {Container, Button, Col, Row, Nav} from "react-bootstrap";
 import CarparkItem from './carparkItem'
 import SearchFormCar from "./SearchFormCar";
 import Time from "../../Time";
@@ -31,6 +31,9 @@ function Carpark(props) {
                             <SearchFormCar searchText={setKeyword}
                             setCarpark={setCarpark}/>
                             <p>Click on the location to see it on the map!</p>
+                            <p>Looking for HDB Car Parks?
+                                <Nav.Link href="hdb" className="mx-5 my-3 border border-2 border-dark text-dark clickable">CLICK HERE!</Nav.Link></p>
+
                         </h5>
 
 

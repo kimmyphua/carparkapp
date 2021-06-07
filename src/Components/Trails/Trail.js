@@ -23,7 +23,7 @@ console.log(contact)
                     <Modal.Header closeButton>
                         <Modal.Title>{name}</Modal.Title>
                     </Modal.Header>
-                    <Modal.Body><p> {body.replace(/<\/?p[^>]*>/g, "   ").replace(/<br>\\*/g, "  " ).replace(/<\/?b[^>]*>/g, "   ")}</p>
+                    <Modal.Body><p> {body.replace(/(<([^>]+)>)/gi, "")}</p>
                         <a href={officialWebsite} target="_blank"> [Link to website!] </a>
                     </Modal.Body>
                 </Modal>

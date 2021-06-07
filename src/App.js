@@ -15,6 +15,7 @@ import Bars from "./Components/Bars/Bars";
 import Carpark from "./Components/Carpark/Carpark";
 import Traffic from "./Traffic";
 import {Col,Container,Row} from "react-bootstrap";
+import HdbCarparks from "./Components/Carpark/HdbCarparks";
 
 function App() {
 
@@ -45,7 +46,9 @@ function App() {
                             <Route path="/traffic">
                                 <Traffic />
                             </Route>
-
+                            <Route path="/hdb">
+                                <HdbCarparks />
+                            </Route>
                             <Route path="/mall">
                                 <Malls/>
                             </Route>
